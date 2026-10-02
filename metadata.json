@@ -1,0 +1,6 @@
+{
+  "name": "TaskForge",
+  "description": "Smart project and task management system with interactive dashboards, project creation, task assignments, role-based admin panel, and detailed activity tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
